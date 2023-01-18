@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root> 
+       
+<item id="1"><name>Tulips</name><price>$550</price><descr>Purple tulips</descr></item>
+
+<item id="2"><name>Sunflower</name><price>$200</price><descr>Yellow sunflower</descr></item>
+
+<item id="3"><name>Venus fly trap</name><price>$1000</price><descr>Carnivorous Venus fly trap</descr></item>
+</root>
